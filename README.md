@@ -1,1 +1,1 @@
-# Resume
+# Open AI Practice
